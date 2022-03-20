@@ -1,3 +1,5 @@
+# This source was recovered from archive.org, full source code of the original application can be browsed from https://github.com/xeffyr/android-vshell-archive from the original author of this project
+
 # vShell
 
 > vShell is an example of how Android terminal apps can look like after
